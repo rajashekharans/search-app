@@ -1,0 +1,11 @@
+{
+    "name": "raj/search-app",
+    "description": "Custom search with Google Custom Search API",
+    "authors": [
+        {
+            "name": "Raj Soundrarajan",
+            "email": "reachtoraj@outlook.com"
+        }
+    ],
+    "require": {}
+}
