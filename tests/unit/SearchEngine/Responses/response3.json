@@ -1,0 +1,525 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "previousPage": [
+      {
+        "title": "Google Custom Search - creditorwatch",
+        "totalResults": "574000",
+        "searchTerms": "creditorwatch",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "83155f1ee9aa0cd96"
+      }
+    ],
+    "request": [
+      {
+        "title": "Google Custom Search - creditorwatch",
+        "totalResults": "574000",
+        "searchTerms": "creditorwatch",
+        "count": 10,
+        "startIndex": 21,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "83155f1ee9aa0cd96"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - creditorwatch",
+        "totalResults": "574000",
+        "searchTerms": "creditorwatch",
+        "count": 10,
+        "startIndex": 31,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "83155f1ee9aa0cd96"
+      }
+    ]
+  },
+  "context": {
+    "title": "CreditorwatchTest2"
+  },
+  "searchInformation": {
+    "searchTime": 0.95307,
+    "formattedSearchTime": "0.95",
+    "totalResults": "574000",
+    "formattedTotalResults": "574,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Frequently Asked Questions | Creditor Watch Help Center",
+      "htmlTitle": "Frequently Asked Questions | \u003cb\u003eCreditor Watch\u003c/b\u003e Help Center",
+      "link": "http://help.at.creditorwatch.com.au/en/collections/339302-frequently-asked-questions",
+      "displayLink": "help.at.creditorwatch.com.au",
+      "snippet": "Frequently Asked Questions. A collection of common questions and answers. C. \n15 articles in this collection. Written by CreditorWatch ...",
+      "htmlSnippet": "Frequently Asked Questions. A collection of common questions and answers. C. \u003cbr\u003e\n15 articles in this collection. Written by \u003cb\u003eCreditorWatch\u003c/b\u003e&nbsp;...",
+      "cacheId": "wLXVR6wq1I8J",
+      "formattedUrl": "help.at.creditorwatch.com.au/en/.../339302-frequently-asked-questions",
+      "htmlFormattedUrl": "help.at.\u003cb\u003ecreditorwatch\u003c/b\u003e.com.au/en/.../339302-frequently-asked-questions",
+      "pagemap": {
+        "metatags": [
+          {
+            "twitter:title": "Frequently Asked Questions | Creditor Watch Help Center",
+            "og:type": "website",
+            "viewport": "width=device-width, initial-scale=1",
+            "twitter:description": "A collection of common questions and answers",
+            "intercom:trackingevent": "{\"name\":\"Viewed Collection\",\"metadata\":{\"action\":\"viewed\",\"object\":\"collection\",\"place\":\"help_center\",\"owner\":\"educate\",\"default_locale\":\"en\",\"current_locale\":\"en\",\"is_default_locale\":true,\"collection\":{\"id\":\"339302\",\"url\":\"http://help.at.creditorwatch.com.au/en/collections/339302-frequently-asked-questions\",\"value\":\"Frequently Asked Questions\"}}}",
+            "og:title": "Frequently Asked Questions | Creditor Watch Help Center",
+            "og:description": "A collection of common questions and answers"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Spotlight on Data: CreditorWatch. Have you tried the recently added ...",
+      "htmlTitle": "Spotlight on Data: \u003cb\u003eCreditorWatch\u003c/b\u003e. Have you tried the recently added ...",
+      "link": "https://medium.com/@demystdata/spotlight-on-data-creditorwatch-4081be16132b",
+      "displayLink": "medium.com",
+      "snippet": "Creditorwatch is an Australian commercial credit bureau that provides credit risk \ninformation on every registered business entity in Australia including sole ...",
+      "htmlSnippet": "\u003cb\u003eCreditorwatch\u003c/b\u003e is an Australian commercial credit bureau that provides credit risk \u003cbr\u003e\ninformation on every registered business entity in Australia including sole&nbsp;...",
+      "cacheId": "NRtBcWWckEYJ",
+      "formattedUrl": "https://medium.com/.../spotlight-on-data-creditorwatch-4081be16132b",
+      "htmlFormattedUrl": "https://medium.com/.../spotlight-on-data-\u003cb\u003ecreditorwatch\u003c/b\u003e-4081be16132b",
+      "pagemap": {
+        "metatags": [
+          {
+            "twitter:app:url:iphone": "medium://p/4081be16132b",
+            "theme-color": "#000000",
+            "article:published_time": "2020-03-06T21:33:39.932Z",
+            "twitter:card": "summary",
+            "og:site_name": "Medium",
+            "al:android:package": "com.medium.reader",
+            "twitter:app:id:iphone": "828256236",
+            "title": "Spotlight on Data: CreditorWatch. Have you tried the recently added… | by Demyst | Medium",
+            "al:ios:url": "medium://p/4081be16132b",
+            "og:description": "Have you tried the recently added Creditorwatch APIs on the Demyst platform?",
+            "twitter:creator": "@demystdata",
+            "al:ios:app_store_id": "828256236",
+            "twitter:site": "@Medium",
+            "og:type": "article",
+            "twitter:title": "Spotlight on Data: CreditorWatch",
+            "al:ios:app_name": "Medium",
+            "parsely-post-id": "4081be16132b",
+            "author": "Demyst",
+            "og:title": "Spotlight on Data: CreditorWatch",
+            "al:web:url": "https://medium.com/@demystdata/spotlight-on-data-creditorwatch-4081be16132b",
+            "article:author": "https://medium.com/@demystdata",
+            "al:android:url": "medium://p/4081be16132b",
+            "referrer": "unsafe-url",
+            "fb:app_id": "542599432471018",
+            "viewport": "width=device-width,minimum-scale=1,initial-scale=1",
+            "twitter:description": "Have you tried the recently added Creditorwatch APIs on the Demyst platform?",
+            "og:url": "https://medium.com/@demystdata/spotlight-on-data-creditorwatch-4081be16132b",
+            "twitter:app:name:iphone": "Medium",
+            "al:android:app_name": "Medium"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "creditorwatch Archives - Ticker",
+      "htmlTitle": "\u003cb\u003ecreditorwatch\u003c/b\u003e Archives - Ticker",
+      "link": "https://www.tickertv.com.au/news/tag/creditorwatch/",
+      "displayLink": "www.tickertv.com.au",
+      "snippet": "CreditorWatch has been helping customers who range from sole traders through \nto ASX-listed companies, to better understand who their debtors are. They offer ...",
+      "htmlSnippet": "\u003cb\u003eCreditorWatch\u003c/b\u003e has been helping customers who range from sole traders through \u003cbr\u003e\nto ASX-listed companies, to better understand who their debtors are. They offer&nbsp;...",
+      "cacheId": "-oujTf-rFBQJ",
+      "formattedUrl": "https://www.tickertv.com.au/news/tag/creditorwatch/",
+      "htmlFormattedUrl": "https://www.tickertv.com.au/news/tag/\u003cb\u003ecreditorwatch\u003c/b\u003e/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSioccJ9CWvrc98Crtad3LEKCllZPrGBOBOMseIYoN2u8z1zqeFVAapcvk",
+            "width": "282",
+            "height": "179"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "//www.tickertv.com.au/wp-content/uploads/2019/10/ticker-logo-large-blue-1.png",
+            "og:type": "object",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "creditorwatch Archives - Ticker",
+            "og:site_name": "Ticker",
+            "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+            "og:title": "creditorwatch Archives - Ticker",
+            "og:locale": "en_US",
+            "og:url": "https://www.tickertv.com.au/news/tag/creditorwatch/",
+            "msapplication-tileimage": "https://www.tickertv.com.au/wp-content/uploads/2019/10/cropped-ticker-t-logo-1-270x270.png",
+            "og:description": "BOLD BUSINESS",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.tickertv.com.au/wp-content/uploads/2020/04/google-facebook-new6-1920-630x400.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "CreditorWatch - Laracasts Member Profile",
+      "htmlTitle": "CreditorWatch - Laracasts Member Profile",
+      "link": "https://laracasts.com/@CreditorWatch",
+      "displayLink": "laracasts.com",
+      "snippet": "Dev at CreditorWatch. Member Since 5 Years Ago. Sydney. Experience Points. \n28,760. Total Experience. 1,240 experience to go until the next level! In case you\n ...",
+      "htmlSnippet": "Dev at \u003cb\u003eCreditorWatch\u003c/b\u003e. Member Since 5 Years Ago. Sydney. Experience Points. \u003cbr\u003e\n28,760. Total Experience. 1,240 experience to go until the next level! In case you\u003cbr\u003e\n&nbsp;...",
+      "cacheId": "XoM-_rnBlncJ",
+      "formattedUrl": "https://laracasts.com/@CreditorWatch",
+      "htmlFormattedUrl": "https://laracasts.com/@\u003cb\u003eCreditorWatch\u003c/b\u003e",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSYEx9frFUQyICo34vL5RFygGDteNyiI9gWKSO9N9FmsNR3mpVCKM5rqSfJ",
+            "width": "299",
+            "height": "169"
+          }
+        ],
+        "metatags": [
+          {
+            "msapplication-tilecolor": "#ffffff",
+            "msapplication-config": "/favicons/browserconfig.xml",
+            "theme-color": "#ffffff",
+            "og:site_name": "Laracasts",
+            "viewport": "width=device-width, user-scalable=no",
+            "csrf-token": "AlFeJiVxbr09O77V8wde7ATsJdoHT85qiBNFSZ4N"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://laracasts.com/images/profiles/start-first-discussion@2x.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "CreditorWatch",
+      "htmlTitle": "\u003cb\u003eCreditorWatch\u003c/b\u003e",
+      "link": "https://natcollection.com.au/creditorwatch/",
+      "displayLink": "natcollection.com.au",
+      "snippet": "CreditorWatch is a commercial credit reporting bureau with over 40,000 \ncustomers, from sole traders through to ASX listed companies. CreditorWatch \nprovides ...",
+      "htmlSnippet": "\u003cb\u003eCreditorWatch\u003c/b\u003e is a commercial credit reporting bureau with over 40,000 \u003cbr\u003e\ncustomers, from sole traders through to ASX listed companies. \u003cb\u003eCreditorWatch\u003c/b\u003e \u003cbr\u003e\nprovides&nbsp;...",
+      "cacheId": "VUyYSrwWPXoJ",
+      "formattedUrl": "https://natcollection.com.au/creditorwatch/",
+      "htmlFormattedUrl": "https://natcollection.com.au/\u003cb\u003ecreditorwatch\u003c/b\u003e/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTIhAzhxJeScc3hXe-vuCQHrc4kk-E46JzRO8w9QnwYkYVRQiPXn27Exg",
+            "width": "220",
+            "height": "118"
+          }
+        ],
+        "metatags": [
+          {
+            "skype_toolbar": "SKYPE_TOOLBAR_PARSER_COMPATIBLE",
+            "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.natcollection.com.au/wp-content/uploads/2013/02/ncs-logo21.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Does anyone know how to add a creditorwatch logo to the standard ...",
+      "htmlTitle": "Does anyone know how to add a \u003cb\u003ecreditorwatch\u003c/b\u003e logo to the standard ...",
+      "link": "https://central.xero.com/s/question/0D51N00004lH0JD/does-anyone-know-how-to-add-a-creditorwatch-logo-to-the-standard-invoice",
+      "displayLink": "central.xero.com",
+      "snippet": "Mar 4, 2019 ... I want to add the creditorwatch logo too. I am afraid I am not techno savvy enough \nto create a custom invoice template as I tried this and it was ...",
+      "htmlSnippet": "Mar 4, 2019 \u003cb\u003e...\u003c/b\u003e I want to add the \u003cb\u003ecreditorwatch\u003c/b\u003e logo too. I am afraid I am not techno savvy enough \u003cbr\u003e\nto create a custom invoice template as I tried this and it was&nbsp;...",
+      "cacheId": "T35vUGxuU7cJ",
+      "formattedUrl": "https://central.xero.com/.../does-anyone-know-how-to-add-a-creditorwatch- logo-to-the-standard-invoice",
+      "htmlFormattedUrl": "https://central.xero.com/.../does-anyone-know-how-to-add-a-\u003cb\u003ecreditorwatch\u003c/b\u003e- logo-to-the-standard-invoice",
+      "pagemap": {
+        "metatags": [
+          {
+            "msvalidate.01": "5CAE720C3EF59978B7D5E2AA667D3D7A",
+            "viewport": "initial-scale=1.0, maximum-scale=5.0, minimum-scale=1.0, minimal-ui"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "CreditorWatch - Photos | Facebook",
+      "htmlTitle": "\u003cb\u003eCreditorWatch\u003c/b\u003e - Photos | Facebook",
+      "link": "https://touch.facebook.com/CreditorWatchAU/photos/?ref=page_internal&mt_nav=0",
+      "displayLink": "touch.facebook.com",
+      "snippet": "See photos, profile pictures and albums from CreditorWatch. ... CreditorWatch is \non Facebook. To connect with CreditorWatch, log in or create an account. Log In.",
+      "htmlSnippet": "See photos, profile pictures and albums from \u003cb\u003eCreditorWatch\u003c/b\u003e. ... \u003cb\u003eCreditorWatch\u003c/b\u003e is \u003cbr\u003e\non Facebook. To connect with \u003cb\u003eCreditorWatch\u003c/b\u003e, log in or create an account. Log In.",
+      "cacheId": "Cj4RM2wsb28J",
+      "formattedUrl": "https://touch.facebook.com/CreditorWatchAU/photos/?ref=page...mt...",
+      "htmlFormattedUrl": "https://touch.facebook.com/\u003cb\u003eCreditorWatch\u003c/b\u003eAU/photos/?ref=page...mt...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSGa7SAltzP8PX60ipnIvRnmhdqX9hzXJYslz6FllrLtKF2VK70p2QSw74",
+            "width": "180",
+            "height": "180"
+          }
+        ],
+        "metatags": [
+          {
+            "referrer": "default",
+            "og:image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=158362990867063",
+            "viewport": "user-scalable=no,initial-scale=1,maximum-scale=1",
+            "og:title": "CreditorWatch",
+            "og:url": "https://www.facebook.com/pages/category/Internet-Company/CreditorWatchAU/photos/",
+            "og:description": "CreditorWatch, Sydney, Australia. 2K likes. Providing affordable credit reporting and debt collection services for all businesses. Get paid faster and reduce bad debt. Trial us for free today."
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=158362990867063"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "CreditorWatch celebrates 50,000 customers - YouTube",
+      "htmlTitle": "\u003cb\u003eCreditorWatch\u003c/b\u003e celebrates 50,000 customers - YouTube",
+      "link": "https://www.youtube.com/watch?v=B24HHruqqXE",
+      "displayLink": "www.youtube.com",
+      "snippet": "May 14, 2017 ... 50000 customers and growing! https://creditorwatch.com.au/",
+      "htmlSnippet": "May 14, 2017 \u003cb\u003e...\u003c/b\u003e 50000 customers and growing! https://\u003cb\u003ecreditorwatch\u003c/b\u003e.com.au/",
+      "formattedUrl": "https://www.youtube.com/watch?v=B24HHruqqXE",
+      "htmlFormattedUrl": "https://www.youtube.com/watch?v=B24HHruqqXE",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjoKqrPOjhx0Th7D0B_ob662Re4vF77M8iuucU4ou-rHN4K1tM3F03rjx_",
+            "width": "259",
+            "height": "194"
+          }
+        ],
+        "imageobject": [
+          {
+            "width": "480",
+            "url": "https://i.ytimg.com/vi/B24HHruqqXE/hqdefault.jpg",
+            "height": "360"
+          }
+        ],
+        "person": [
+          {
+            "name": "CreditorWatchAU",
+            "url": "http://www.youtube.com/user/CreditorWatchAU"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://i.ytimg.com/vi/B24HHruqqXE/hqdefault.jpg",
+            "twitter:app:url:iphone": "vnd.youtube://www.youtube.com/watch?v=B24HHruqqXE&feature=applinks",
+            "twitter:app:id:googleplay": "com.google.android.youtube",
+            "og:image:width": "480",
+            "twitter:card": "player",
+            "theme-color": "#ff0000",
+            "og:site_name": "YouTube",
+            "twitter:url": "https://www.youtube.com/watch?v=B24HHruqqXE",
+            "twitter:app:url:ipad": "vnd.youtube://www.youtube.com/watch?v=B24HHruqqXE&feature=applinks",
+            "al:android:package": "com.google.android.youtube",
+            "twitter:app:name:googleplay": "YouTube",
+            "title": "CreditorWatch celebrates 50,000 customers",
+            "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=B24HHruqqXE&feature=applinks",
+            "twitter:app:id:iphone": "544007664",
+            "og:description": "50,000 customers and growing! https://creditorwatch.com.au/",
+            "al:ios:app_store_id": "544007664",
+            "twitter:image": "https://i.ytimg.com/vi/B24HHruqqXE/hqdefault.jpg",
+            "twitter:player": "https://www.youtube.com/embed/B24HHruqqXE",
+            "twitter:player:height": "720",
+            "twitter:site": "@youtube",
+            "og:video:type": "text/html",
+            "og:video:height": "720",
+            "og:video:url": "https://www.youtube.com/embed/B24HHruqqXE",
+            "og:type": "video.other",
+            "twitter:title": "CreditorWatch celebrates 50,000 customers",
+            "al:ios:app_name": "YouTube",
+            "og:title": "CreditorWatch celebrates 50,000 customers",
+            "og:image:height": "360",
+            "twitter:app:id:ipad": "544007664",
+            "al:web:url": "https://www.youtube.com/watch?v=B24HHruqqXE&feature=applinks",
+            "og:video:secure_url": "https://www.youtube.com/embed/B24HHruqqXE",
+            "og:video:tag": "#CreditorWatch",
+            "og:video:width": "1280",
+            "al:android:url": "vnd.youtube://www.youtube.com/watch?v=B24HHruqqXE&feature=applinks",
+            "fb:app_id": "87741124305",
+            "twitter:app:url:googleplay": "https://www.youtube.com/watch?v=B24HHruqqXE",
+            "twitter:app:name:ipad": "YouTube",
+            "twitter:description": "50,000 customers and growing! https://creditorwatch.com.au/",
+            "og:url": "https://www.youtube.com/watch?v=B24HHruqqXE",
+            "twitter:player:width": "1280",
+            "al:android:app_name": "YouTube",
+            "twitter:app:name:iphone": "YouTube"
+          }
+        ],
+        "videoobject": [
+          {
+            "embedurl": "https://www.youtube.com/embed/B24HHruqqXE",
+            "playertype": "HTML5 Flash",
+            "isfamilyfriendly": "True",
+            "uploaddate": "2017-05-14",
+            "description": "50,000 customers and growing! https://creditorwatch.com.au/",
+            "videoid": "B24HHruqqXE",
+            "url": "https://www.youtube.com/watch?v=B24HHruqqXE",
+            "duration": "PT1M45S",
+            "unlisted": "False",
+            "name": "CreditorWatch celebrates 50,000 customers",
+            "paid": "False",
+            "width": "1280",
+            "regionsallowed": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH...",
+            "genre": "People & Blogs",
+            "interactioncount": "1308",
+            "channelid": "UCmeGwEenhFHuRPLNFEcS2NA",
+            "datepublished": "2017-05-14",
+            "thumbnailurl": "https://i.ytimg.com/vi/B24HHruqqXE/hqdefault.jpg",
+            "height": "720"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://i.ytimg.com/vi/B24HHruqqXE/hqdefault.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "CreditorWatch sees SME cracks appear prior to coronavirus ...",
+      "htmlTitle": "\u003cb\u003eCreditorWatch\u003c/b\u003e sees SME cracks appear prior to coronavirus ...",
+      "link": "https://businessacumen.biz/news-finance-and-investment/4935-credtiorwatch-sees-sme-cracks-appear-prior-to-coronavirus",
+      "displayLink": "businessacumen.biz",
+      "snippet": "May 27, 2020 ... By Leon Gettler \u003e\u003e. A LOT OF BUSINESSES have done it hard since the \nshutdowns and social distancing rules came in. But CreditorWatch ...",
+      "htmlSnippet": "May 27, 2020 \u003cb\u003e...\u003c/b\u003e By Leon Gettler &gt;&gt;. A LOT OF BUSINESSES have done it hard since the \u003cbr\u003e\nshutdowns and social distancing rules came in. But \u003cb\u003eCreditorWatch\u003c/b\u003e&nbsp;...",
+      "cacheId": "2LEvA_w7UesJ",
+      "formattedUrl": "https://businessacumen.biz/.../4935-credtiorwatch-sees-sme-cracks-appear- prior-to-coronavirus",
+      "htmlFormattedUrl": "https://businessacumen.biz/.../4935-credtiorwatch-sees-sme-cracks-appear- prior-to-coronavirus",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR4S59I8N2XWMqhC7CYB3xlXP_TaYFH3cP5efv3cDPaoxMNiv3dto9G9dzr",
+            "width": "183",
+            "height": "275"
+          }
+        ],
+        "Article": [
+          {
+            "datePublished": "2020-05-26T21:26:33+00:00",
+            "name": "CreditorWatch sees SME cracks appear prior to coronavirus",
+            "dateModified": "2020-06-05T03:21:39+00:00",
+            "text": "By Leon Gettler \u003e\u003e A LOT OF BUSINESSES have done it hard since the shutdowns and social distancing rules came in. But CreditorWatch data suggests small businesses were struggling with cash...",
+            "articleSection": "Finance & Investment"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://businessacumen.biz/images/stories/Infographics/Hiding_money_in_suit_pocket_EDIT_400pxw.jpg",
+            "og:type": "article",
+            "og:site_name": "Business Acumen Magazine",
+            "datemodified": "2020-06-05T03:21:39+00:00",
+            "viewport": "width=device-width, initial-scale=1",
+            "articlesection": "Finance & Investment",
+            "author": "Mike Sullivan",
+            "og:title": "CreditorWatch sees SME cracks appear prior to coronavirus - Business Acumen Magazine",
+            "name": "CreditorWatch sees SME cracks appear prior to coronavirus",
+            "og:url": "https://businessacumen.biz/news-finance-and-investment/4935-credtiorwatch-sees-sme-cracks-appear-prior-to-coronavirus",
+            "og:description": "By Leon Gettler \u003e\u003e A LOT OF BUSINESSES have done it hard since the shutdowns and social distancing rules came in. But CreditorWatch data suggests small businesses were struggling with cash flow issues long before the coronavirus lockdown measures...",
+            "datepublished": "2020-05-26T21:26:33+00:00"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://businessacumen.biz/images/stories/Infographics/Hiding_money_in_suit_pocket_EDIT_400pxw.jpg"
+          }
+        ],
+        "Person": [
+          {
+            "author": "Mike Sullivan"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "InfoTrack enters credit bureau game with acquisition of fintech ...",
+      "htmlTitle": "InfoTrack enters credit bureau game with acquisition of fintech ...",
+      "link": "https://dynamicbusiness.com.au/topics/start-up-entrepreneur/infotrack-enters-credit-bureau-game-with-acquisition-of-fintech-startup-creditorwatch.html",
+      "displayLink": "dynamicbusiness.com.au",
+      "snippet": "Oct 16, 2017 ... Rapid-growth SME credit bureau CreditorWatch has been acquired by InfoTrack, \na leading provider of intelligent search and automated ...",
+      "htmlSnippet": "Oct 16, 2017 \u003cb\u003e...\u003c/b\u003e Rapid-growth SME credit bureau \u003cb\u003eCreditorWatch\u003c/b\u003e has been acquired by InfoTrack, \u003cbr\u003e\na leading provider of intelligent search and automated&nbsp;...",
+      "cacheId": "SFvLfeWuXPgJ",
+      "formattedUrl": "https://dynamicbusiness.com.au/.../infotrack-enters-credit-bureau-game-with- acquisition-of-fintech-startup-creditorwatch.html",
+      "htmlFormattedUrl": "https://dynamicbusiness.com.au/.../infotrack-enters-credit-bureau-game-with- acquisition-of-fintech-startup-\u003cb\u003ecreditorwatch\u003c/b\u003e.html",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB6us-UYMF5nl3vRTsQyHJkpkTW2DwMYXZkGHngzgVpQJH6A5CuVnk5IU",
+            "width": "264",
+            "height": "191"
+          }
+        ],
+        "imageobject": [
+          {
+            "url": "https://dynamicbusiness.com.au/topics/start-up-entrepreneur/infotrack-enters-credit-bureau-game-with-acquisition-of-fintech-startup-creditorwatch.html"
+          },
+          {
+            "width": "635",
+            "url": "https://dynamicbusiness.com.au/wp-content/uploads/2017/10/canva-photo-editor-8.png",
+            "height": "304"
+          }
+        ],
+        "person": [
+          {
+            "name": "James Harkness"
+          }
+        ],
+        "organization": [
+          {
+            "name": "Dynamic Business"
+          }
+        ],
+        "metatags": [
+          {
+            "twitter:card": "summary_large_image",
+            "twitter:title": "InfoTrack enters credit bureau game with acquisition of fintech startup CreditorWatch - Dynamic Business",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "twitter:description": "Rapid-growth SME credit bureau CreditorWatch has been acquired by InfoTrack, a leading provider of intelligent search and automated workflow solutions for business professionals.  Founded by managing director Colin Porter in 2011, CreditorWatch has, in the ensuing six years, been able to challenge the duopoly held by incumbent credit bureaus Veda (now Equifax) and Dun & […]",
+            "bingbot": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+            "msapplication-tileimage": "https://dynamicbusiness.com.au/wp-content/uploads/2020/09/cropped-Annotation-2020-08-20-091946-270x270.png",
+            "twitter:image": "https://dynamicbusiness.com.au/wp-content/uploads/2017/10/canva-photo-editor-8.png"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "x-raw-image:///d2c9f518ec6a8748dd27703e15b4c4c1f44590cee03193fe9c542678c80c6b27"
+          }
+        ],
+        "article": [
+          {
+            "datemodified": "2017-10-16T16:22:57+11:00",
+            "headline": "InfoTrack enters credit bureau game with acquisition of fintech startup CreditorWatch",
+            "datepublished": "2017-10-16T14:48:44+11:00"
+          }
+        ]
+      }
+    }
+  ]
+}
