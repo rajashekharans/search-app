@@ -1,0 +1,627 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "previousPage": [
+      {
+        "title": "Google Custom Search - creditorwatch",
+        "totalResults": "574000",
+        "searchTerms": "creditorwatch",
+        "count": 10,
+        "startIndex": 51,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "83155f1ee9aa0cd96"
+      }
+    ],
+    "request": [
+      {
+        "title": "Google Custom Search - creditorwatch",
+        "totalResults": "574000",
+        "searchTerms": "creditorwatch",
+        "count": 10,
+        "startIndex": 61,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "83155f1ee9aa0cd96"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - creditorwatch",
+        "totalResults": "574000",
+        "searchTerms": "creditorwatch",
+        "count": 10,
+        "startIndex": 71,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "83155f1ee9aa0cd96"
+      }
+    ]
+  },
+  "context": {
+    "title": "CreditorwatchTest2"
+  },
+  "searchInformation": {
+    "searchTime": 0.27065,
+    "formattedSearchTime": "0.27",
+    "totalResults": "574000",
+    "formattedTotalResults": "574,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Fintech Movers & Shakers – CreditorWatch appoints Michelle 'Mitchy'",
+      "htmlTitle": "Fintech Movers &amp; Shakers – \u003cb\u003eCreditorWatch\u003c/b\u003e appoints Michelle &#39;Mitchy&#39;",
+      "link": "https://australianfintech.com.au/fintech-movers-shakers-creditorwatch-appoints-michelle-mitchy-koper-as-its-new-gm-of-communications-marketing/",
+      "displayLink": "australianfintech.com.au",
+      "snippet": "Digital credit reporting agency, CreditorWatch, has hired Michelle 'Mitchy' Koper \nas its new GM of Communications and Marketing.",
+      "htmlSnippet": "Digital credit reporting agency, \u003cb\u003eCreditorWatch\u003c/b\u003e, has hired Michelle &#39;Mitchy&#39; Koper \u003cbr\u003e\nas its new GM of Communications and Marketing.",
+      "cacheId": "FKExDhWPIKcJ",
+      "formattedUrl": "https://australianfintech.com.au/fintech-movers-shakers-creditorwatch- appoints-michelle-mitchy-koper-as-its-new-gm-of-communications- ...",
+      "htmlFormattedUrl": "https://australianfintech.com.au/fintech-movers-shakers-\u003cb\u003ecreditorwatch\u003c/b\u003e- appoints-michelle-mitchy-koper-as-its-new-gm-of-communications- ...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhQsXcXSoqSPx9COKeC85plbtEobx1QklJWkeFeXtAcMGK4PkZoH6klPY",
+            "width": "200",
+            "height": "200"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://australianfintech.com.au/wp-content/uploads/2020/06/Michelle-Mitchy-Koper.jpg",
+            "og:type": "article",
+            "article:section": "FinTech",
+            "article:published_time": "2020-06-02T04:28:53+00:00",
+            "og:image:width": "200",
+            "twitter:card": "summary",
+            "twitter:title": "Fintech Movers & Shakers – CreditorWatch appoints Michelle ‘Mitchy’ Koper as its new GM of Communications & Marketing – Australian FinTech",
+            "og:site_name": "Australian FinTech",
+            "og:title": "Fintech Movers & Shakers – CreditorWatch appoints Michelle ‘Mitchy’ Koper as its new GM of Communications & Marketing",
+            "og:image:height": "200",
+            "msapplication-tileimage": "https://australianfintech.com.au/wp-content/uploads/2015/06/logo-words-orange-background-small.png",
+            "og:description": "Digital credit reporting agency, CreditorWatch, has hired Michelle ‘Mitchy’ Koper as its new GM of Communications and Marketing.",
+            "twitter:creator": "@austfintech",
+            "article:publisher": "https://www.facebook.com/australianfintech",
+            "og:image:secure_url": "https://australianfintech.com.au/wp-content/uploads/2020/06/Michelle-Mitchy-Koper.jpg",
+            "twitter:image": "https://australianfintech.com.au/wp-content/uploads/2020/06/Michelle-Mitchy-Koper.jpg",
+            "article:tag": "FinTech Disruptors",
+            "twitter:site": "@austfintech",
+            "viewport": "width=device-width, minimum-scale=1.0, initial-scale=1.0",
+            "twitter:description": "Digital credit reporting agency, CreditorWatch, has hired Michelle ‘Mitchy’ Koper as its new GM of Communications and Marketing.",
+            "og:locale": "en_US",
+            "og:url": "https://australianfintech.com.au/fintech-movers-shakers-creditorwatch-appoints-michelle-mitchy-koper-as-its-new-gm-of-communications-marketing/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://australianfintech.com.au/wp-content/uploads/2020/06/Michelle-Mitchy-Koper.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "CreditorWatch Reviews | Glassdoor.sg",
+      "htmlTitle": "\u003cb\u003eCreditorWatch\u003c/b\u003e Reviews | Glassdoor.sg",
+      "link": "https://www.glassdoor.sg/Reviews/CreditorWatch-Reviews-E1061211.htm",
+      "displayLink": "www.glassdoor.sg",
+      "snippet": "I worked at CreditorWatch full-time for less than a year. Pros. Work culture, relax \nenvironment and dress code, flat company structure, since they are approx 50 ...",
+      "htmlSnippet": "I worked at \u003cb\u003eCreditorWatch\u003c/b\u003e full-time for less than a year. Pros. Work culture, relax \u003cbr\u003e\nenvironment and dress code, flat company structure, since they are approx 50&nbsp;...",
+      "cacheId": "kgm2hx3QzZ8J",
+      "formattedUrl": "https://www.glassdoor.sg/Reviews/CreditorWatch-Reviews-E1061211.htm",
+      "htmlFormattedUrl": "https://www.glassdoor.sg/Reviews/\u003cb\u003eCreditorWatch\u003c/b\u003e-Reviews-E1061211.htm",
+      "pagemap": {
+        "breadcrumb": [
+          {
+            "title": "Reviews",
+            "url": "Reviews \u003e"
+          },
+          {
+            "title": "CreditorWatch",
+            "url": "CreditorWatch"
+          },
+          {
+            "title": "CreditorWatch",
+            "url": "CreditorWatch"
+          }
+        ],
+        "review": [
+          {
+            "ratingstars": "3.5",
+            "ratingcount": "8"
+          }
+        ],
+        "hreviewaggregate": [
+          {
+            "count": "8"
+          }
+        ],
+        "hreview": [
+          {
+            "summary": "\"Great company to work with a promising future ahead\"",
+            "dtreviewed": "2019-06-12"
+          },
+          {
+            "summary": "\"Growing company with great culture\"",
+            "dtreviewed": "2019-04-15"
+          },
+          {
+            "summary": "\"The only alternative is to start your own company .....\"",
+            "dtreviewed": "2019-03-25"
+          },
+          {
+            "summary": "\"Beware of false reviews, the place is toxic\"",
+            "dtreviewed": "2019-03-13"
+          },
+          {
+            "summary": "\"Best place ever to work\"",
+            "dtreviewed": "2018-07-10"
+          },
+          {
+            "summary": "\"Strange work culture...revolving door\"",
+            "dtreviewed": "2018-04-03"
+          },
+          {
+            "summary": "\"Good place to work\"",
+            "dtreviewed": "2017-12-10"
+          },
+          {
+            "summary": "\"Great place to work!!\"",
+            "dtreviewed": "2017-08-15"
+          }
+        ],
+        "metatags": [
+          {
+            "globalsign-domain-verification": "-y15wxQ3oP0LlzeU3xnbrjNJW4VhNguPiVGWarEjJk",
+            "og:image": "http://www.glassdoor.com/crs/opengraph/Glassdoor_OG_1200x630.png",
+            "apple-itunes-app": "app-id=589698942",
+            "theme-color": "#0caa41",
+            "og:type": "website",
+            "og:site_name": "Glassdoor",
+            "al:ios:app_name": "Glassdoor",
+            "og:title": "CreditorWatch Reviews",
+            "msapplication-navbutton-color": "#0caa41",
+            "og:description": "8 CreditorWatch reviews. A free inside look at company reviews and salaries posted anonymously by employees.",
+            "al:ios:app_store_id": "589698942",
+            "referrer": "origin",
+            "fb:app_id": "129253937150340",
+            "apple-mobile-web-app-status-bar-style": "#0caa41",
+            "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+            "apple-mobile-web-app-capable": "yes",
+            "og:url": "https://www.glassdoor.sg/Reviews/CreditorWatch-Reviews-E1061211.htm",
+            "google-play-app": "app-id=com.glassdoor.app"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://www.glassdoor.com/crs/opengraph/Glassdoor_OG_1200x630.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Got bad debtors? Colin Porter's CreditorWatch helps SMEs steer ...",
+      "htmlTitle": "Got bad debtors? Colin Porter&#39;s \u003cb\u003eCreditorWatch\u003c/b\u003e helps SMEs steer ...",
+      "link": "http://anthillonline.com/got-bad-debtors-colin-porters-creditwatch-helps-smes-steer-clear-of-late-payers-podcast/",
+      "displayLink": "anthillonline.com",
+      "snippet": "Mar 7, 2011 ... The Australian entrepreneur started CreditorWatch in late 2010. The company \ntracks and catalogs bad debtors, and shares that information ...",
+      "htmlSnippet": "Mar 7, 2011 \u003cb\u003e...\u003c/b\u003e The Australian entrepreneur started \u003cb\u003eCreditorWatch\u003c/b\u003e in late 2010. The company \u003cbr\u003e\ntracks and catalogs bad debtors, and shares that information&nbsp;...",
+      "cacheId": "pinaSc-EtuYJ",
+      "formattedUrl": "anthillonline.com/got-bad-debtors-colin-porters-creditwatch-helps-smes-steer -clear-of-late-payers-podcast/",
+      "htmlFormattedUrl": "anthillonline.com/got-bad-debtors-colin-porters-creditwatch-helps-smes-steer -clear-of-late-payers-podcast/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT1mlDNaodznmZSkqDJrWQWo6OICWMM6XkAvdmrlFL-Jb74e_KVZLyjk10",
+            "width": "238",
+            "height": "178"
+          }
+        ],
+        "imageobject": [
+          {
+            "url": "http://anthillonline.com/wp-content/uploads/2018/11/anthill100-270x77.png"
+          },
+          {
+            "width": "1068",
+            "url": "http://anthillonline.com/wp-content/themes/Newsmag/images/no-thumb/td_meta_replacement.png",
+            "height": "580"
+          }
+        ],
+        "person": [
+          {
+            "name": "Jody Murray"
+          }
+        ],
+        "organization": [
+          {
+            "name": "Jody Murray"
+          }
+        ],
+        "metatags": [
+          {
+            "og:type": "article",
+            "article:section": "Articles",
+            "article:published_time": "2011-03-07T11:03:52+11:00",
+            "article:modified_time": "2011-03-10T14:28:17+11:00",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "og:title": "Got bad debtors? Colin Porter's CreditorWatch helps SMEs steer clear of late payers [PODCAST] -",
+            "og:locale": "en_US",
+            "og:url": "http://anthillonline.com/got-bad-debtors-colin-porters-creditwatch-helps-smes-steer-clear-of-late-payers-podcast/",
+            "og:updated_time": "2011-03-10T14:28:17+11:00",
+            "og:description": "Bumpy roads have had a common topography for SMEs during the economic downturn. Businesses that press forward on thin or uncertain margins can ill afford clients who refuse to pay their debts. And that's where Colin Porter's CreditWatch comes in.",
+            "article:tag": "antcast"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://anthillonline.com/wp-content/uploads/2020/07/triple-home-care-packages-and-fix-aged-care-national-seniors-election-call-jpg-238x178.jpg"
+          }
+        ],
+        "hatomfeed": [
+          {}
+        ],
+        "article": [
+          {
+            "datemodified": "2011-03-10T14:28:17+11:00",
+            "headline": "Got bad debtors? Colin Porter's CreditorWatch helps SMEs steer clear of late payers [PODCAST]",
+            "datepublished": "2011-03-07T11:03:52+00:00"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Working at CreditorWatch | Glassdoor.co.uk",
+      "htmlTitle": "Working at \u003cb\u003eCreditorWatch\u003c/b\u003e | Glassdoor.co.uk",
+      "link": "https://www.glassdoor.co.uk/Overview/Working-at-CreditorWatch-EI_IE1061211.11,24.htm",
+      "displayLink": "www.glassdoor.co.uk",
+      "snippet": "See what employees say about what it's like to work at CreditorWatch. Salaries, \nreviews and more - all posted by employees working at CreditorWatch.",
+      "htmlSnippet": "See what employees say about what it&#39;s like to work at \u003cb\u003eCreditorWatch\u003c/b\u003e. Salaries, \u003cbr\u003e\nreviews and more - all posted by employees working at \u003cb\u003eCreditorWatch\u003c/b\u003e.",
+      "cacheId": "An2rLIOcP_8J",
+      "formattedUrl": "https://www.glassdoor.co.uk/.../Working-at-CreditorWatch-EI_IE1061211. 11,24.htm",
+      "htmlFormattedUrl": "https://www.glassdoor.co.uk/.../Working-at-\u003cb\u003eCreditorWatch\u003c/b\u003e-EI_IE1061211. 11,24.htm",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR9HWInSLSG8Gv9HUsZpwGi6QXp_2HFKRJQaPMQHD1qun9Anof7wlLJsSi_",
+            "width": "303",
+            "height": "166"
+          }
+        ],
+        "review": [
+          {
+            "ratingstars": "3.5",
+            "ratingcount": "8"
+          }
+        ],
+        "hreviewaggregate": [
+          {
+            "count": "8"
+          }
+        ],
+        "hreview": [
+          {
+            "summary": "\"Growing company with great culture\"",
+            "dtreviewed": "2019-04-15",
+            "description": "ProsGreat cultural business, really warm and approachable management that keep you informed and appreciate your successes and try and move forward from the negativesConsSales structure needs..."
+          }
+        ],
+        "metatags": [
+          {
+            "globalsign-domain-verification": "8gasaHBZws6-VlwUeolXJRSp0aUrfYzMYjiPfCwfn7",
+            "og:image": "http://www.glassdoor.com/crs/opengraph/Glassdoor_OG_1200x630.png",
+            "apple-itunes-app": "app-id=589698942",
+            "theme-color": "#0caa41",
+            "og:type": "website",
+            "og:site_name": "Glassdoor",
+            "al:ios:app_name": "Glassdoor",
+            "apple-mobilegi-web-app-capable": "yes",
+            "og:title": "Working at CreditorWatch",
+            "msapplication-navbutton-color": "#0caa41",
+            "og:description": "See what employees say about what it's like to work at CreditorWatch. Salaries, reviews and more - all posted by employees working at CreditorWatch.",
+            "glassdoor:best_places_to_work": "false",
+            "al:ios:app_store_id": "589698942",
+            "referrer": "origin",
+            "fb:app_id": "129253937150340",
+            "apple-mobile-web-app-status-bar-style": "#0caa41",
+            "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+            "apple-mobile-web-app-capable": "yes",
+            "og:url": "https://www.glassdoor.co.uk/Overview/Working-at-CreditorWatch-EI_IE1061211.11,24.htm",
+            "google-play-app": "app-id=com.glassdoor.app"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.glassdoor.co.uk/blog/app/uploads/sites/3/GD-ER.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "CreditorWatch - Techboard",
+      "htmlTitle": "\u003cb\u003eCreditorWatch\u003c/b\u003e - Techboard",
+      "link": "https://techboard.com.au/company-profile/creditorwatch/",
+      "displayLink": "techboard.com.au",
+      "snippet": "Aug 20, 2017 ... Elevator Pitch: CreditorWatch is a commercial credit reporting bureau with over \n50,000 customers across Australia, from sole traders through to ...",
+      "htmlSnippet": "Aug 20, 2017 \u003cb\u003e...\u003c/b\u003e Elevator Pitch: \u003cb\u003eCreditorWatch\u003c/b\u003e is a commercial credit reporting bureau with over \u003cbr\u003e\n50,000 customers across Australia, from sole traders through to&nbsp;...",
+      "cacheId": "5h_mxXBpxIMJ",
+      "formattedUrl": "https://techboard.com.au/company-profile/creditorwatch/",
+      "htmlFormattedUrl": "https://techboard.com.au/company-profile/\u003cb\u003ecreditorwatch\u003c/b\u003e/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrD5x9T_mjkEA9erw_4MsV8kgGSh8CR0IWkmPkbRI4Rqrz7wdFbHB-PyY",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://i1.wp.com/techboard.com.au/wp-content/uploads/2015/05/favicon1-55557db1v1_site_icon.png?fit=512%2C512&ssl=1",
+            "theme-color": "#000000",
+            "og:type": "article",
+            "article:published_time": "2017-08-20T12:50:17+00:00",
+            "og:image:width": "512",
+            "twitter:card": "summary",
+            "og:site_name": "Techboard",
+            "og:title": "CreditorWatch",
+            "og:image:height": "512",
+            "bingbot": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+            "msapplication-tileimage": "https://i1.wp.com/techboard.com.au/wp-content/uploads/2015/05/favicon1-55557db1v1_site_icon.png?fit=270%2C270&ssl=1",
+            "og:description": "Visit the post for more.",
+            "twitter:image": "https://i1.wp.com/techboard.com.au/wp-content/uploads/2015/05/favicon1-55557db1v1_site_icon.png?fit=240%2C240&ssl=1",
+            "twitter:text:title": "CreditorWatch",
+            "twitter:site": "@TechboardAU",
+            "article:modified_time": "2018-03-27T15:18:17+00:00",
+            "viewport": "width=device-width, initial-scale=1",
+            "twitter:description": "Visit the post for more.",
+            "og:url": "https://techboard.com.au/company-profile/creditorwatch/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://i1.wp.com/techboard.com.au/wp-content/uploads/2015/05/favicon1-55557db1v1_site_icon.png?fit=512%2C512&ssl=1"
+          }
+        ],
+        "hatomfeed": [
+          {}
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "CreditorWatch Careers and Employment | Indeed.com",
+      "htmlTitle": "\u003cb\u003eCreditorWatch\u003c/b\u003e Careers and Employment | Indeed.com",
+      "link": "https://au.indeed.com/cmp/Creditorwatch",
+      "displayLink": "au.indeed.com",
+      "snippet": "CreditorWatch is an Australian credit reporting agency that manages the credit \nfiles of all commercial businesses in Australia. Headquarters. Sydney. \nEmployees.",
+      "htmlSnippet": "\u003cb\u003eCreditorWatch\u003c/b\u003e is an Australian credit reporting agency that manages the credit \u003cbr\u003e\nfiles of all commercial businesses in Australia. Headquarters. Sydney. \u003cbr\u003e\nEmployees.",
+      "cacheId": "VWPO2Rzaf7oJ",
+      "formattedUrl": "https://au.indeed.com/cmp/Creditorwatch",
+      "htmlFormattedUrl": "https://au.indeed.com/cmp/\u003cb\u003eCreditorwatch\u003c/b\u003e",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRCB7kqg3zMTD6CWYIeFMf67f1xyvzy3TEad2dOVeIaoSPoOy6KmQFo",
+            "width": "116",
+            "height": "100"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://d3hbwax96mbv6t.cloudfront.net/shared/static/images/indeed_fb.png",
+            "fb:app_id": "115882278440564",
+            "og:type": "website",
+            "og:site_name": "Indeed.com",
+            "viewport": "width=device-width, initial-scale=1",
+            "og:title": "CreditorWatch Careers and Employment",
+            "og:url": "/cmp/Creditorwatch",
+            "og:description": "Find out what works well at CreditorWatch from the people who know best. Get the inside scoop on jobs, salaries, top office locations, and CEO insights. Compare pay for popular roles and read about the team’s work-life balance. Uncover why CreditorWatch is the best company for you."
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://d3hbwax96mbv6t.cloudfront.net/shared/static/images/indeed_fb.png"
+          }
+        ],
+        "localbusiness": [
+          {
+            "image": "https://au.indeed.com/cmp/_s/w/images/placeholder-logo-128-bfb128.png",
+            "name": "CreditorWatch"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "CreditorWatch – PPSR Logic – The Australian Business Awards ...",
+      "htmlTitle": "\u003cb\u003eCreditorWatch\u003c/b\u003e – PPSR Logic – The Australian Business Awards ...",
+      "link": "https://winners.australianbusinessawards.com.au/2019-winners/business-technology-awards-2019/creditorwatch-2019-bta/",
+      "displayLink": "winners.australianbusinessawards.com.au",
+      "snippet": "Aug 6, 2019 ... With over 50,000 customers who range from sole traders through to ASX listed \ncompanies, CreditorWatch offers credit management tools and ...",
+      "htmlSnippet": "Aug 6, 2019 \u003cb\u003e...\u003c/b\u003e With over 50,000 customers who range from sole traders through to ASX listed \u003cbr\u003e\ncompanies, \u003cb\u003eCreditorWatch\u003c/b\u003e offers credit management tools and&nbsp;...",
+      "cacheId": "p3e-A6BIaPMJ",
+      "formattedUrl": "https://winners.australianbusinessawards.com.au/.../creditorwatch-2019-bta/",
+      "htmlFormattedUrl": "https://winners.australianbusinessawards.com.au/.../\u003cb\u003ecreditorwatch\u003c/b\u003e-2019-bta/",
+      "pagemap": {
+        "metatags": [
+          {
+            "og:image": "https://secureservercdn.net/166.62.110.90/sju.9db.myftpupload.com/wp-content/uploads/2019/08/2019-Creditor-Watch-Patrick-Coghlan-BTA.jpg?time=1598942299",
+            "og:type": "article",
+            "og:site_name": "The Australian Business Awards \u003e\u003e 2019-2020",
+            "viewport": "width=device-width, initial-scale=1",
+            "og:title": "CreditorWatch - PPSR Logic",
+            "og:url": "https://winners.australianbusinessawards.com.au/2019-winners/business-technology-awards-2019/creditorwatch-2019-bta/",
+            "og:description": "CreditorWatch - PPSR Logic CreditorWatch - PPSR Logic has been selected as an ABA100 Winner for Business Technology in The Australian Business Awards 2019. The Australian Business Award for Business Technology  recognises organisations that implement innovative technological solutions for new and existing business needs.  CreditorWatch is an innovative and customer-centric commercial credit"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://secureservercdn.net/166.62.110.90/sju.9db.myftpupload.com/wp-content/uploads/2019/08/2019-Creditor-Watch-Patrick-Coghlan-BTA.jpg?time=1598942299"
+          }
+        ],
+        "hatomfeed": [
+          {}
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "NSW 2017 Golf Day - Supported by ARMA and CreditorWatch - Sold ...",
+      "htmlTitle": "NSW 2017 Golf Day - Supported by ARMA and \u003cb\u003eCreditorWatch\u003c/b\u003e - Sold ...",
+      "link": "https://aicm.com.au/events/nsw-2017-golf-day-supported-by-arma-and-creditorwatch/",
+      "displayLink": "aicm.com.au",
+      "snippet": "NSW 2017 Golf Day - Supported by ARMA and CreditorWatch - Sold Out, Wait list \nOnly. The NSW AICM Golf day is a great way to connect with fellow credit ...",
+      "htmlSnippet": "NSW 2017 Golf Day - Supported by ARMA and \u003cb\u003eCreditorWatch\u003c/b\u003e - Sold Out, Wait list \u003cbr\u003e\nOnly. The NSW AICM Golf day is a great way to connect with fellow credit&nbsp;...",
+      "cacheId": "l3DgeMqINhEJ",
+      "formattedUrl": "https://aicm.com.au/.../nsw-2017-golf-day-supported-by-arma-and- creditorwatch/",
+      "htmlFormattedUrl": "https://aicm.com.au/.../nsw-2017-golf-day-supported-by-arma-and- \u003cb\u003ecreditorwatch\u003c/b\u003e/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT74eQ4nAoNDFKupFyLrhSeALVQ7mJNyrev9UcPGl6e5ViBes7SL7luHUA",
+            "width": "200",
+            "height": "200"
+          }
+        ],
+        "metatags": [
+          {
+            "msapplication-tilecolor": "#ffffff",
+            "application-name": "AICM",
+            "copyright": "Copyright Creative Pulse 2020. All Rights Reserved.",
+            "viewport": "width=device-width,initial-scale=1,maximum-scale=1",
+            "author": "Creative Pulse",
+            "dc.creator": "Creative Pulse",
+            "dc.title": "AICM",
+            "msapplication-tileimage": "/files/8814/4963/1558/ms-icon-144x144.png"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://aicm.com.au/files/cache/6a34346fc88a305415fca316f08f1d75_f672.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Madhav Bhat - Devops Engineer - CreditorWatch | LinkedIn",
+      "htmlTitle": "Madhav Bhat - Devops Engineer - \u003cb\u003eCreditorWatch\u003c/b\u003e | LinkedIn",
+      "link": "https://in.linkedin.com/in/madhav-bhat",
+      "displayLink": "in.linkedin.com",
+      "snippet": "Madhav Bhat. Devops Engineer at CreditorWatch. CreditorWatchGoa College of \nEngineering. Sydney, New South Wales, Australia500+ connections.",
+      "htmlSnippet": "Madhav Bhat. Devops Engineer at \u003cb\u003eCreditorWatch\u003c/b\u003e. \u003cb\u003eCreditorWatch\u003c/b\u003eGoa College of \u003cbr\u003e\nEngineering. Sydney, New South Wales, Australia500+ connections.",
+      "formattedUrl": "https://in.linkedin.com/in/madhav-bhat",
+      "htmlFormattedUrl": "https://in.linkedin.com/in/madhav-bhat",
+      "pagemap": {
+        "metatags": [
+          {
+            "og:image": "https://media-exp1.licdn.com/dms/image/C4E03AQEhnL_qsZ7KcA/profile-displayphoto-shrink_200_200/0?e=1604534400&v=beta&t=LqLyw68zr2ErtOsnZ35EF-2qZVr7qq8sDtiUuEq1uEk",
+            "og:type": "profile",
+            "twitter:card": "summary",
+            "twitter:title": "Madhav Bhat - Devops Engineer - CreditorWatch | LinkedIn",
+            "al:ios:app_name": "LinkedIn",
+            "platform-worker": "https://static-exp1.licdn.com/sc/h/f1rrg2iyfxtin8sa39nl5yphl",
+            "og:title": "Madhav Bhat - Devops Engineer - CreditorWatch | LinkedIn",
+            "al:android:package": "com.linkedin.android",
+            "pagekey": "public_profile_v3_mobile",
+            "locale": "en_US",
+            "al:ios:url": "https://au.linkedin.com/in/madhav-bhat",
+            "og:description": "View Madhav Bhat’s profile on LinkedIn, the world's largest professional community. Madhav has 6 jobs listed on their profile. See the complete profile on LinkedIn and discover Madhav’s connections and jobs at similar companies.",
+            "al:ios:app_store_id": "288429040",
+            "platform": "https://static-exp1.licdn.com/sc/h/9jz7j4nt804mq3yk6akvsioxt,98t0h00dlsr4m5boxrv86q09p",
+            "twitter:image": "https://media-exp1.licdn.com/dms/image/C4E03AQEhnL_qsZ7KcA/profile-displayphoto-shrink_200_200/0?e=1604534400&v=beta&t=LqLyw68zr2ErtOsnZ35EF-2qZVr7qq8sDtiUuEq1uEk",
+            "al:android:url": "https://au.linkedin.com/in/madhav-bhat",
+            "profile:last_name": "Bhat",
+            "twitter:site": "@Linkedin",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "litmsprofilename": "public-profile-frontend",
+            "twitter:description": "View Madhav Bhat’s profile on LinkedIn, the world's largest professional community. Madhav has 6 jobs listed on their profile. See the complete profile on LinkedIn and discover Madhav’s connections and jobs at similar companies.",
+            "profile:first_name": "Madhav",
+            "og:url": "https://au.linkedin.com/in/madhav-bhat",
+            "al:android:app_name": "LinkedIn"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://media-exp1.licdn.com/dms/image/C4E03AQEhnL_qsZ7KcA/profile-displayphoto-shrink_200_200/0?e=1604534400&v=beta&t=LqLyw68zr2ErtOsnZ35EF-2qZVr7qq8sDtiUuEq1uEk"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Thousands of zombie firms set to march into September reckoning",
+      "htmlTitle": "Thousands of zombie firms set to march into September reckoning",
+      "link": "https://www.smh.com.au/politics/federal/thousands-of-zombie-firms-set-to-march-into-september-reckoning-20200612-p5522b.html",
+      "displayLink": "www.smh.com.au",
+      "snippet": "Jun 13, 2020 ... CreditorWatch chief executive officer Patrick Coghlan said thousands of firms that \nwould ordinarily have shut their doors and been forced to pay ...",
+      "htmlSnippet": "Jun 13, 2020 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eCreditorWatch\u003c/b\u003e chief executive officer Patrick Coghlan said thousands of firms that \u003cbr\u003e\nwould ordinarily have shut their doors and been forced to pay&nbsp;...",
+      "formattedUrl": "https://www.smh.com.au/.../thousands-of-zombie-firms-set-to-march-into- september-reckoning-20200612-p5522b.html",
+      "htmlFormattedUrl": "https://www.smh.com.au/.../thousands-of-zombie-firms-set-to-march-into- september-reckoning-20200612-p5522b.html",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJaf9JxrR-XsJUx3vBOyfL3BnZ9y6lSVevQH0ZlYsSxAk5ACba1IOO4-qy",
+            "width": "311",
+            "height": "162"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://static.ffx.io/images/$zoom_0.3293%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_106%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_smh_no_label_no_age_social_wm/35176736c9556e9edeb521b7bc2988d1de9349cc",
+            "theme-color": "#0A1633",
+            "article:published_time": "2020-06-13T06:44:05+00:00",
+            "og:image:width": "800",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "The Sydney Morning Herald",
+            "parsely-author": "Shane Wright",
+            "title": "Thousands of zombie firms set to march into September reckoning",
+            "og:description": "An army of zombie businesses face insolvency actions once laws aimed to protect them from bankruptcy return to normal later this year.",
+            "parsely-metadata": "{\"type\":\"article\",\"assetId\":\"p5522b\"}",
+            "og:image:secure_url": "https://static.ffx.io/images/$zoom_0.3293%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_106%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_smh_no_label_no_age_social_wm/35176736c9556e9edeb521b7bc2988d1de9349cc",
+            "parsely-network-canonical": "https://www.smh.com.au/politics/federal/thousands-of-zombie-firms-set-to-march-into-september-reckoning-20200612-p5522b.html",
+            "parsely-type": "NewsArticle",
+            "twitter:site": "@smh",
+            "article:modified_time": "2020-06-13T13:36:30+00:00",
+            "parsely-link": "https://www.smh.com.au/politics/federal/thousands-of-zombie-firms-set-to-march-into-september-reckoning-20200612-p5522b.html",
+            "parsely-image-url": "https://static.ffx.io/images/$zoom_0.3293%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_106%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_smh_no_label_no_age_social_wm/35176736c9556e9edeb521b7bc2988d1de9349cc",
+            "parsely-section": "Federal",
+            "pubdate": "2020-06-13T06:44:05+00:00",
+            "article:section": "Federal",
+            "twitter:title": "Thousands of zombie firms set to march into September reckoning",
+            "author": "Shane Wright",
+            "og:title": "Thousands of zombie firms set to march into September reckoning",
+            "og:image:height": "450",
+            "fb:pages": "104598631263",
+            "parsely-title": "Thousands of zombie firms set to march into September reckoning",
+            "parsely-pub-date": "2020-06-13T06:44:05+00:00",
+            "twitter:image:src": "https://static.ffx.io/images/$zoom_0.3293%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_106%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_smh_no_label_no_age_social_wm/35176736c9556e9edeb521b7bc2988d1de9349cc",
+            "fb:app_id": "193677504039845",
+            "parsely-tags": "CORONAVIRUS PANDEMIC,insolvency,josh frydenberg",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "twitter:description": "An army of zombie businesses face insolvency actions once laws aimed to protect them from bankruptcy return to normal later this year.",
+            "og:locale": "en_US",
+            "og:url": "https://www.smh.com.au/politics/federal/thousands-of-zombie-firms-set-to-march-into-september-reckoning-20200612-p5522b.html",
+            "google-signin-client_id": "589384154045-p5vk6p2adh6l4p13n8rfjtbsfqu8gbn5.apps.googleusercontent.com"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://static.ffx.io/images/$zoom_0.3293%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_106%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_smh_no_label_no_age_social_wm/35176736c9556e9edeb521b7bc2988d1de9349cc"
+          }
+        ]
+      }
+    }
+  ]
+}

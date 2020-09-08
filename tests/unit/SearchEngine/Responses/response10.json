@@ -1,0 +1,229 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "previousPage": [
+      {
+        "title": "Google Custom Search - creditorwatch",
+        "totalResults": "95",
+        "searchTerms": "creditorwatch",
+        "count": 5,
+        "startIndex": 81,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "83155f1ee9aa0cd96"
+      }
+    ],
+    "request": [
+      {
+        "title": "Google Custom Search - creditorwatch",
+        "totalResults": "95",
+        "searchTerms": "creditorwatch",
+        "count": 5,
+        "startIndex": 91,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "83155f1ee9aa0cd96"
+      }
+    ]
+  },
+  "context": {
+    "title": "CreditorwatchTest2"
+  },
+  "searchInformation": {
+    "searchTime": 1.013038,
+    "formattedSearchTime": "1.01",
+    "totalResults": "95",
+    "formattedTotalResults": "95"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Laura Capstick - Oxford, United Kingdom | Professional Profile ...",
+      "htmlTitle": "Laura Capstick - Oxford, United Kingdom | Professional Profile ...",
+      "link": "https://creditorwatch.com.au/login",
+      "displayLink": "uk.linkedin.com",
+      "snippet": "Laura Capstick. Operations Manager at CreditorWatch. Sydney, Australia. Laura \nCapstick. Laura Capstick. Advanced Communications Skills Specialist.",
+      "htmlSnippet": "Laura Capstick. Operations Manager at \u003cb\u003eCreditorWatch\u003c/b\u003e. Sydney, Australia. Laura \u003cbr\u003e\nCapstick. Laura Capstick. Advanced Communications Skills Specialist.",
+      "formattedUrl": "https://uk.linkedin.com/in/laura-capstick-362489149",
+      "htmlFormattedUrl": "https://uk.linkedin.com/in/laura-capstick-362489149",
+      "pagemap": {
+        "metatags": [
+          {
+            "og:image": "https://static-exp1.licdn.com/sc/p/com.linkedin.public-profile-frontend%3Apublic-profile-frontend-static-content%2B0.2.410/f/%2Fpublic-profile-frontend%2Fartdeco%2Fstatic%2Fimages%2Fghost-images%2Fperson.svg",
+            "og:type": "profile",
+            "twitter:card": "summary",
+            "twitter:title": "Laura Capstick - Oxford, United Kingdom | Professional Profile | LinkedIn",
+            "og:title": "Laura Capstick - Oxford, United Kingdom | Professional Profile | LinkedIn",
+            "pagekey": "public_profile_v3_mobile",
+            "locale": "en_US",
+            "og:description": "View Laura Capstick’s professional profile on LinkedIn. LinkedIn is the world's largest business network, helping professionals like Laura Capstick discover inside connections to recommended job candidates, industry experts, and business partners.",
+            "twitter:image": "https://static-exp1.licdn.com/sc/p/com.linkedin.public-profile-frontend%3Apublic-profile-frontend-static-content%2B0.2.410/f/%2Fpublic-profile-frontend%2Fartdeco%2Fstatic%2Fimages%2Fghost-images%2Fperson.svg",
+            "profile:last_name": "Capstick",
+            "twitter:site": "@Linkedin",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "litmsprofilename": "public-profile-frontend",
+            "twitter:description": "View Laura Capstick’s professional profile on LinkedIn. LinkedIn is the world's largest business network, helping professionals like Laura Capstick discover inside connections to recommended job candidates, industry experts, and business partners.",
+            "profile:first_name": "Laura",
+            "og:url": "https://uk.linkedin.com/in/laura-capstick-362489149"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://static-exp1.licdn.com/sc/p/com.linkedin.public-profile-frontend%3Apublic-profile-frontend-static-content%2B0.2.410/f/%2Fpublic-profile-frontend%2Fartdeco%2Fstatic%2Fimages%2Fghost-images%2Fperson.svg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "DynamicBusiness.com.au | LinkedIn",
+      "htmlTitle": "DynamicBusiness.com.au | LinkedIn",
+      "link": "https://ca.linkedin.com/company/dynamicbusiness-com-au",
+      "displayLink": "ca.linkedin.com",
+      "snippet": "Patrick Coghlan. Chief Executive Officer | Founding Employee at CreditorWatch. \nAnoushka Bock ... CreditorWatch. Information Technology and Services. Sydney\n ...",
+      "htmlSnippet": "Patrick Coghlan. Chief Executive Officer | Founding Employee at \u003cb\u003eCreditorWatch\u003c/b\u003e. \u003cbr\u003e\nAnoushka Bock ... \u003cb\u003eCreditorWatch\u003c/b\u003e. Information Technology and Services. Sydney\u003cbr\u003e\n&nbsp;...",
+      "formattedUrl": "https://ca.linkedin.com/company/dynamicbusiness-com-au",
+      "htmlFormattedUrl": "https://ca.linkedin.com/company/dynamicbusiness-com-au",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQyPyOmweB8BugL7PFb4T6HRyDip_SX4fWp6VFn2ZDTR6Tke14ry4pecb0",
+            "width": "200",
+            "height": "200"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://media-exp1.licdn.com/dms/image/C4E0BAQGrhSIZkrujNg/company-logo_200_200/0?e=2159024400&v=beta&t=gugxW0P0AStp_E_LrWtN6CGR8SdTqYZLbJQ-xQ_I5Wc",
+            "og:type": "article",
+            "twitter:card": "summary",
+            "twitter:title": "DynamicBusiness.com.au | LinkedIn",
+            "twitter:site": "@linkedin",
+            "twitter:description": "Learn about working at DynamicBusiness.com.au. Join LinkedIn today for free. See who you know at DynamicBusiness.com.au, leverage your professional network, and get hired.",
+            "og:title": "DynamicBusiness.com.au | LinkedIn",
+            "pagekey": "d_org_guest_company_overview",
+            "locale": "en_US",
+            "og:url": "https://ca.linkedin.com/company/dynamicbusiness-com-au",
+            "og:description": "Learn about working at DynamicBusiness.com.au. Join LinkedIn today for free. See who you know at DynamicBusiness.com.au, leverage your professional network, and get hired.",
+            "twitter:image": "https://media-exp1.licdn.com/dms/image/C4E0BAQGrhSIZkrujNg/company-logo_200_200/0?e=2159024400&v=beta&t=gugxW0P0AStp_E_LrWtN6CGR8SdTqYZLbJQ-xQ_I5Wc"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://media-exp1.licdn.com/dms/image/C4E0BAQGrhSIZkrujNg/company-logo_200_200/0?e=2159024400&v=beta&t=gugxW0P0AStp_E_LrWtN6CGR8SdTqYZLbJQ-xQ_I5Wc"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "The Courier-Mail: 2020-06-20 - PressReader",
+      "htmlTitle": "The Courier-Mail: 2020-06-20 - PressReader",
+      "link": "https://www.pressreader.com/australia/the-courier-mail/20200620/page/45",
+      "displayLink": "www.pressreader.com",
+      "snippet": "Jun 20, 2020 ... CreditorWatch boss Patrick Coghlan estimates about 600 businesses are using \nthe Safe Harbour law, which allows directors to trade while ...",
+      "htmlSnippet": "Jun 20, 2020 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eCreditorWatch\u003c/b\u003e boss Patrick Coghlan estimates about 600 businesses are using \u003cbr\u003e\nthe Safe Harbour law, which allows directors to trade while&nbsp;...",
+      "formattedUrl": "https://www.pressreader.com/australia/the-courier-mail/20200620/.../45",
+      "htmlFormattedUrl": "https://www.pressreader.com/australia/the-courier-mail/20200620/.../45",
+      "pagemap": {
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Pitcher Partners | LinkedIn",
+      "htmlTitle": "Pitcher Partners | LinkedIn",
+      "link": "https://it.linkedin.com/company/pitcher-partners",
+      "displayLink": "it.linkedin.com",
+      "snippet": "Commercial credit reporting bureau CreditorWatch has found that court actions \ndue to payment defaults in the construction sector had increased by 40 per cent ...",
+      "htmlSnippet": "Commercial credit reporting bureau \u003cb\u003eCreditorWatch\u003c/b\u003e has found that court actions \u003cbr\u003e\ndue to payment defaults in the construction sector had increased by 40 per cent&nbsp;...",
+      "formattedUrl": "https://it.linkedin.com/company/pitcher-partners",
+      "htmlFormattedUrl": "https://it.linkedin.com/company/pitcher-partners",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRURwV6lY8J42POF2GUZ0DfMSEJg39XFtuAZkh9UMH99aDD9_q6-BKnFWI",
+            "width": "200",
+            "height": "200"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://media-exp1.licdn.com/dms/image/C4E0BAQGhs6cYdDVJTQ/company-logo_200_200/0?e=2159024400&v=beta&t=fe6lY-fsOD3ecPk2QG4S9IvFvWl4fWfD2dCYGSB8Fro",
+            "og:type": "article",
+            "twitter:card": "summary",
+            "twitter:title": "Pitcher Partners | LinkedIn",
+            "twitter:site": "@linkedin",
+            "twitter:description": "Scopri i dettagli delle offerte di lavoro presso Pitcher Partners. Iscriviti subito a LinkedIn. È gratis! Scopri chi conosci presso Pitcher Partners, sfrutta la tua rete professionale e fatti assumere.",
+            "og:title": "Pitcher Partners | LinkedIn",
+            "pagekey": "d_org_guest_company_overview",
+            "locale": "it_IT",
+            "og:url": "https://it.linkedin.com/company/pitcher-partners",
+            "og:description": "Scopri i dettagli delle offerte di lavoro presso Pitcher Partners. Iscriviti subito a LinkedIn. È gratis! Scopri chi conosci presso Pitcher Partners, sfrutta la tua rete professionale e fatti assumere.",
+            "twitter:image": "https://media-exp1.licdn.com/dms/image/C4E0BAQGhs6cYdDVJTQ/company-logo_200_200/0?e=2159024400&v=beta&t=fe6lY-fsOD3ecPk2QG4S9IvFvWl4fWfD2dCYGSB8Fro"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://media-exp1.licdn.com/dms/image/C4E0BAQGhs6cYdDVJTQ/company-logo_200_200/0?e=2159024400&v=beta&t=fe6lY-fsOD3ecPk2QG4S9IvFvWl4fWfD2dCYGSB8Fro"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "ASIC Connect - Página inicial | Facebook",
+      "htmlTitle": "ASIC Connect - Página inicial | Facebook",
+      "link": "https://pt-br.facebook.com/asicconnect/?ref=page_internal",
+      "displayLink": "pt-br.facebook.com",
+      "snippet": "SmartCompany · U.S. Securities and Exchange Commission Careers · ACCC \nConsumer Rights · VentraIP Australia · CreditorWatch · Xero · Companies House.",
+      "htmlSnippet": "SmartCompany &middot; U.S. Securities and Exchange Commission Careers &middot; ACCC \u003cbr\u003e\nConsumer Rights &middot; VentraIP Australia &middot; \u003cb\u003eCreditorWatch\u003c/b\u003e &middot; Xero &middot; Companies House.",
+      "formattedUrl": "https://pt-br.facebook.com/asicconnect/?ref=page_internal",
+      "htmlFormattedUrl": "https://pt-br.facebook.com/asicconnect/?ref=page_internal",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQvJINzoF_yKvfnyne58onHKgrQylEDJGR-Plxm0jiCFZoDa2LdILu_x9CK",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "organization": [
+          {
+            "image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=389514567729660"
+          }
+        ],
+        "metatags": [
+          {
+            "al:android:url": "fb://page/389514567729660?referrer=app_link",
+            "referrer": "default",
+            "og:image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=389514567729660",
+            "al:ios:app_name": "Facebook",
+            "og:title": "ASIC Connect",
+            "al:android:package": "com.facebook.katana",
+            "al:ios:url": "fb://page/?id=389514567729660",
+            "og:url": "https://pt-br.facebook.com/asicconnect/",
+            "og:description": "ASIC Connect. 12 mil curtidas. Thank you for visiting the official Facebook page for the ASIC Registry – ASIC Connect. \n\nWe're here to help you do business with ASIC.",
+            "al:android:app_name": "Facebook",
+            "al:ios:app_store_id": "284882215"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=389514567729660"
+          }
+        ]
+      }
+    }
+  ]
+}
