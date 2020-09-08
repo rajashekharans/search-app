@@ -1,11 +1,22 @@
 {
     "name": "raj/search-app",
-    "description": "Custom search with Google Custom Search API",
+    "description": "Search using Google Custom Search API",
     "authors": [
         {
             "name": "Raj Soundrarajan",
             "email": "reachtoraj@outlook.com"
         }
     ],
-    "require": {}
+    "require": {
+        "vlucas/phpdotenv": "^5.1",
+        "guzzlehttp/guzzle": "^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "SearchApp\\": [ "src/", "tests/"]
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.3"
+    }
 }
