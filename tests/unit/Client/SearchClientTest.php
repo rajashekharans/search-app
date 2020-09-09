@@ -5,14 +5,13 @@ use PHPUnit\Framework\TestCase;
 use GuzzleHttp\Client;
 use SearchApp\Client\SearchClient;
 use SearchApp\SearchEngine\GoogleSearch;
-use SearchApp\SearchEngine\MicrosoftSearch;
 
 class SearchClientTest extends TestCase
 {
     /**
      * @dataProvider getSearchEngineDataProvider
      */
-    public function testGetSearchEngineReturnsGoogleSearch(string $searchEngine, $class)
+    public function testGetSearchEngineReturnsGoogleSearch(string $searchEngine, string $class): void
     {
         $httpClient = new Client();
 
@@ -22,12 +21,11 @@ class SearchClientTest extends TestCase
         $this->assertInstanceOf($class, $actual);
     }
 
-    public function getSearchEngineDataProvider()
+    public function getSearchEngineDataProvider(): array
     {
         return [
             ['google', GoogleSearch::class],
-            ['random', GoogleSearch::class],
-            ['microsoft', MicrosoftSearch::class],
+            ['random', GoogleSearch::class]
         ];
     }
 

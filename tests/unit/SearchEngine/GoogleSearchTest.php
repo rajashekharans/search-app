@@ -18,7 +18,7 @@ use PHPUnit\Framework\TestCase;
 
 class GoogleSearchTest extends TestCase
 {
-    public function testSearchReturnSuccess()
+    public function testSearchReturnSuccess(): void
     {
         $expected = [1, 3, 11];
         $jsonResponse1 = file_get_contents(__DIR__."/Responses/response1.json");
@@ -54,7 +54,7 @@ class GoogleSearchTest extends TestCase
         $this->assertEquals($expected, $actual);
     }
 
-    public function testSearchThrowExceptionForBadRequest()
+    public function testSearchThrowExceptionForBadRequest(): void
     {
         $responseMock = $this->createMock(Response::class);
 
@@ -80,7 +80,7 @@ class GoogleSearchTest extends TestCase
         ]);
     }
 
-    public function testSearchThrowExceptionForGuzzleException()
+    public function testSearchThrowExceptionForGuzzleException(): void
     {
 
         $requestMock = $this->createMock(RequestInterface::class);

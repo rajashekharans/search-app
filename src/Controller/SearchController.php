@@ -13,7 +13,7 @@ class SearchController
         $this->searchClient = $searchClient;
     }
 
-    public function get(string $searchEngine, array $request)
+    public function get(string $searchEngine, array $request): Response
     {
         $result = $this->searchClient->search($searchEngine, $request);
 

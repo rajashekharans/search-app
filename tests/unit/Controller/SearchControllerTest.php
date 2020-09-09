@@ -8,7 +8,7 @@ use SearchApp\Controller\SearchController;
 
 class SearchControllerTest extends TestCase
 {
-    public function testGetReturnSuccessfully()
+    public function testGetReturnSuccess(): void
     {
         $result = [1,2,3,4];
         $expected = new Response(
