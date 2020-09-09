@@ -4,6 +4,7 @@
 
 ## Build
 - `cp .env.example .env`
+- Please create a Google API key and assign it to variable `GOOGLE_API_KEY` in .env
 - Make sure port 7080 (`HTTP_PORT` in `.env` file) is not being used. If it is being used by another application you will
 need to change to a different one.
 - Ensure `make` is installed in your machine, it will help in running the commands
