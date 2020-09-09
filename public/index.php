@@ -1,18 +1,14 @@
 <?php
-    require_once "../vendor/autoload.php";
+require_once('../vendor/autoload.php');
 
-    $dotenv =  Dotenv\Dotenv::createImmutable('../');
-    $dotenv->load();
+$dotenv =  Dotenv\Dotenv::createImmutable('../');
+$dotenv->load();
 
-    $request  = str_replace("http://localhost:7080/", "", $_SERVER['REQUEST_URI']);
+require_once('../src/Views/header.php');
+require_once('../src/Views/main.php');
 
-    if(str_contains($request, '/search?')) {
-        require('../src/Views/header.php');
-        require('../src/Views/main.php');
-        require('../src/Views/search.php');
-        require('../src/Views/footer.php');
-    } else {
-        require('../src/Views/header.php');
-        require('../src/Views/main.php');
-        require('../src/Views/footer.php');
-    }
+if(str_contains($_SERVER['REQUEST_URI'], '/search?')) {
+    require('../src/Views/search.php');
+}
+
+require_once('../src/Views/footer.php');

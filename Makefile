@@ -15,3 +15,6 @@ composer-require:
 
 composer-dump-autoload:
 	docker run --rm -v $(PWD):/app composer dump-autoload
+	
+run-tests:
+	docker exec -it search_app vendor/bin/phpunit

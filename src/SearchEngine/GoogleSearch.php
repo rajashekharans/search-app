@@ -6,7 +6,12 @@ use GuzzleHttp\Exception\RequestException;
 
 class GoogleSearch extends SearchEngine
 {
-    public function search(array $options)
+    /*
+     *  To ensure that we don't fetch more than 100 results from Google API, else it returns error.
+     */
+    private const MAX_START_INDEX = 100;
+
+    public function search(array $options): array
     {
         $result = [];
 
@@ -32,12 +37,12 @@ class GoogleSearch extends SearchEngine
             } catch (RequestException $e) {
                 throw new HttpResponseException ($e->getMessage());
             }
-        } while ($startIndex !== -1);
+        } while ($startIndex !== -1 && $startIndex <= self::MAX_START_INDEX);
 
         return $this->processSearchResult($options['url'], $result);
     }
 
-    private function processSearchResult(string $url, $result): array
+    private function processSearchResult(string $url, array $result): array
     {
         $column = array_column($result, 'link');
 
